@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://folder-lock-guide.netlify.app/sitemap.xml
